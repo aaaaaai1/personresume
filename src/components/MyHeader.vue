@@ -12,7 +12,7 @@
     <a href="/resume.pdf" class="btn" download>下载PDF简历</a>
     </div>
     <div class="photo">
-    <img src="C:\Users\AA\Desktop\新建文件夹\personresume\public\avator\D0C8518356D5A8353F18395150FBE003.jpg" alt="头像" width="150" height="150">
+    <img src="/avator/D0C8518356D5A8353F18395150FBE003.jpg" alt="头像"  width="150" height="150">
 
 </div>
 </div>
